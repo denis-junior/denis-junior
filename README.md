@@ -1,6 +1,6 @@
 ### Hello, I'm Denis Junior
 
-- 🔭 Today I'm studying front-end tools
+- 🔭 For now I'm studying front-end tools
 - 🌱 Studying React.js
 - 📫 contact me in email: denis_jr2001@hotmail.com
 <div align="center">
