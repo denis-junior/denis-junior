@@ -1,7 +1,7 @@
 ### Hello, I'm Denis Junior
 
 - 🔭 For now I'm studying front-end tools
-- 🌱 Studying React.js
+- 🌱 Studying React.js with typescript
 - 📫 contact me in email: denis_jr2001@hotmail.com
 <div align="center">
   <a href="https://github.com/denis-junior%22%3E
